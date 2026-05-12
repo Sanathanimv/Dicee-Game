@@ -45,13 +45,8 @@ Dicee-Game/
 
 ## ▶️ How to Run
 1. Clone the repository:
-
-```bash
-git clone https://github.com/Sanathanimv/Dicee-Game.git
-```
-
+[Dicee Game Repository](https://github.com/Sanathanimv/Dicee-Game)
 2. Open the project folder.
-
 3. Run `dicee.html` in your browser.
 
 ## 📸 Preview
